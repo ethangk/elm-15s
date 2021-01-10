@@ -10,13 +10,10 @@
             "elm/core": "1.0.5",
             "elm/html": "1.0.0",
             "elm/random": "1.0.0",
-            "elm/svg": "1.0.1",
-            "elm/time": "1.0.0",
             "elm-community/list-extra": "8.2.4",
             "elm-community/list-split": "1.0.3",
             "elm-community/random-extra": "3.1.0",
-            "lukewestby/elm-string-interpolate": "1.0.4",
-            "rtfeldman/elm-css": "16.1.0"
+            "lukewestby/elm-string-interpolate": "1.0.4"
         },
         "indirect": {
             "elm/json": "1.1.3",

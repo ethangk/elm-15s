@@ -5,7 +5,6 @@ import Task
 import Random.List exposing(shuffle)
 import Random exposing (Seed, generate)
 import List.Split exposing(chunksOfLeft)
-import Time
 import Html.Events exposing (onClick)
 import Html exposing (Attribute, div, text, li, ul)
 import Html.Attributes exposing(style)
